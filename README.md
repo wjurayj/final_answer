@@ -2,7 +2,7 @@
 
 Our [paper](https://aclanthology.org/2025.acl-short.50/) shows how reasoning models can use additional test-time compute to improve their confidence allocation and deliver stronger performance in selective question answering.
 
-![alt text](https://github.com/wjurayj/final_answer/blob/main/images/utility_surface.png)
+![alt text](https://github.com/wjurayj/final_answer/blob/main/images/utility_surface.png?raw=true)
 
 
 ## Installation
