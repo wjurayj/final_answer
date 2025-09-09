@@ -1,6 +1,8 @@
 <h1 align="center">Is That Your Final Answer? Test-Time Scaling Improves Selective Question Answering</h1>
 
-Our [paper](https://arxiv.org/abs/2502.13962) shows how reasoning models can use additional test-time compute to improve their confidence allocation and deliver stronger performance in selective question answering.
+Our [paper](https://aclanthology.org/2025.acl-short.50/) shows how reasoning models can use additional test-time compute to improve their confidence allocation and deliver stronger performance in selective question answering.
+
+![alt text](https://github.com/wjurayj/final_answer/blob/main/images/utility_surface.png)
 
 
 ## Installation
